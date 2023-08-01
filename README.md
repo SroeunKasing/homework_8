@@ -1,3 +1,4 @@
+[![Python application](https://github.com/Chanveasna-ENG/homework_8/actions/workflows/python-app.yml/badge.svg)](https://github.com/Chanveasna-ENG/homework_8/actions/workflows/python-app.yml)
 # Homework 8 - Collaboration
 
 This week homework, required you to work in group, each member in the group must contribute something to the work.
